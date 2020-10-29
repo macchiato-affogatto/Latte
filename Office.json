@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "Offices": "Clark Airport", "Location": "Clark International Airport, Andres Bonifacio Avenue, Clark Freeport, Zone, Pampanga, Philippines", "LATITUDE": 15.184556, "LONGITUDE": 120.556773}, "geometry": { "type": "Point", "coordinates": [ 120.556773, 15.184556 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "Offices": "DOTR Office", "Location": "Apo Court along Sergio Osmeña Sr, Zone, Clark Freeport, Mabalacat, Pampanga, Philippines", "LATITUDE": 15.179381, "LONGITUDE": 120.529574}, "geometry": { "type": "Point", "coordinates": [ 120.529574, 15.179381 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "Offices": "Puregold Duty Free Clark", "Location": "P. Kalaw Street, corner Claro M Recto Hwy, Clark Freeport, Mabalacat, Pampanga, Philippines", "LATITUDE": 15.194031, "LONGITUDE": 120.530754}, "geometry": { "type": "Point", "coordinates": [ 120.530754, 15.194031 ] } }
+
+]
+}
